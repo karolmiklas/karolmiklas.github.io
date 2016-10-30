@@ -1,0 +1,63 @@
+body{
+    background: rgb(13,13,13);
+    color: white;
+}
+
+.container{
+    width: 480px;
+    margin: auto auto auto auto;
+}
+
+.koral_1{
+    width: 350px; height:80px; padding: 1px;
+    float: left;
+    background: url(../img/thumb_1.png) no-repeat;
+}
+
+.koral_1:hover{
+    background: url(../img/thumb_1b.png) no-repeat;
+}
+
+.koral_2{
+    float: left;
+    width: 175px; height:80px; padding: 1px;
+    background: url(../img/thumb_2.png) no-repeat;
+}
+
+.koral_2:hover{    
+    background: url(../img/thumb_2b.png) no-repeat;
+}
+
+
+.koral_3{
+    float: left;
+    width: 175px; height:80px; padding: 1px;
+    background: url(../img/thumb_3.png) no-repeat;
+}
+
+.koral_3:hover{    
+    background: url(../img/thumb_3b.png) no-repeat;
+}
+
+.koral_4{
+    float: left;
+    width: 175px; height:80px; padding: 1px;
+    background: url(../img/thumb_4.png) no-repeat;
+}
+
+.koral_4:hover{    
+    background: url(../img/thumb_4b.png) no-repeat;
+}
+
+.koral_5{
+    float: left;
+    width: 175px; height:80px; padding: 1px;
+    background: url(../img/thumb_5.png) no-repeat;
+}
+
+.koral_5:hover{    
+    background: url(../img/thumb_5b.png) no-repeat;
+}
+.center{
+    text-align: center;
+}
